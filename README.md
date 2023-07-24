@@ -1,4 +1,4 @@
-# Dolphin Versus Counter
+# Flipper Versus Counter
 This is a simple external application for the [Flipper Zero](https://www.flipperzero.one) modified from [plasticuproject](https://github.com/plasticuproject/dolphin-better-counter) version.
 The app give you access to two counters to count your scores for tabletop games for exemple.
 
