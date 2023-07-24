@@ -9,3 +9,4 @@ The UP and DOWN buttons are for adding or subbing one from the first player's sc
 And the LEFT and RIGHT do the same for player 2
 
 # How to install this?
+You can either compile it yourself or intall the .fap from the dist folder
